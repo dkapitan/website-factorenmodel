@@ -8,3 +8,8 @@
 
 [context.deploy-preview]
   command = "yarn build:preview"
+
+[[redirects]]
+  from = "/search-taal-demo"
+  to = "https://kumu.io/factorenmodel-dev/search-taal-demo"
+  force = true
