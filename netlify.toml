@@ -13,3 +13,8 @@
   from = "/search-taal-demo"
   to = "https://kumu.io/factorenmodel-dev/search-taal-demo"
   force = true
+
+  from = "/stevige-start-demo"
+  to = "https://kumu.io/factorenmodel-dev/stevige-start-demo"
+  force = true
+  
