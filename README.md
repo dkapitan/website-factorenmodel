@@ -44,3 +44,7 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
   <use xlink:href="#SVG-ID"></use>
 </svg>
 ```
+
+## Redirects
+
+Using `_redirects` for linking Kumu maps. See [Netlify documentation for redirects](https://docs.netlify.com/routing/redirects/).
